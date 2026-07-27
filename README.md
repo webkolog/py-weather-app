@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.7+](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/downloads/)
-[![CI: GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-brightgreen.svg)](https://github.com/webkolog/py-book-reporter/actions)
+[![CI](https://github.com/webkolog/py-weather-app/actions/workflows/python-tests.yml/badge.svg)](https://github.com/webkolog/py-weather-app/actions)
 
 **Version:** 1.0
 
